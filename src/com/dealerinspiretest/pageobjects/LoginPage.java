@@ -17,8 +17,8 @@ public class LoginPage
         WebElement userNameField = Driver.findElement(By.cssSelector("div.login-wrapper div.left form div:nth-child(1) input"));
         WebElement passwordField = Driver.findElement(By.cssSelector("div.login-wrapper div.left form div:nth-child(2) input"));
         WebElement loginButton = Driver.findElement(By.tagName("button"));
-        userNameField.sendKeys("test");
-        passwordField.sendKeys("test");
+        userNameField.sendKeys(userName);
+        passwordField.sendKeys(password);
         loginButton.click();
     }
 
