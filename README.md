@@ -1,7 +1,7 @@
 # DealerInspireChallenge
 Code Challenge for Dealer Inspire
 
-Gherkin Test Scenarios
+##Gherkin Test Scenarios
 
 Scenario: Login with invalid credentials
 Given the user is on the login page
