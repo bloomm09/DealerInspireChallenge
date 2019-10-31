@@ -16,3 +16,7 @@ Code Challenge for Dealer Inspire
 ## Test Run Demo  
 ![](DealerInspireDemo.gif)  
 https://youtu.be/qVP3L2GSkUs
+
+## Additional Observations
+
+While creating these two tests, I came across a scenario where entering an "a" into the username field, while resetting the password, would cause the system to believe a valid username had been entered and a message would be displayed saying that a password reset e-mail had been sent. I attempted this with other single characters and could not replicate the results with anything other than a single "a" character.
