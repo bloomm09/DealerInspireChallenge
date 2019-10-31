@@ -12,3 +12,7 @@ Code Challenge for Dealer Inspire
 **Given** the user is on the password reset page  
 **When** the user resets the password with an invalid username  
 **Then** the "We can't find a user with that username." error should be displayed in red  
+
+## Test Run Demo  
+![](DealerInspireDemo.gif)  
+https://youtu.be/qVP3L2GSkUs
