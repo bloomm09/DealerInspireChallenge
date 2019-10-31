@@ -14,7 +14,6 @@ Code Challenge for Dealer Inspire
 **Then** the "We can't find a user with that username." error should be displayed in red  
 
 ## Test Run Demo  
-![](DealerInspireDemo.gif)  
 https://youtu.be/qVP3L2GSkUs
 
 ## Additional Observations
